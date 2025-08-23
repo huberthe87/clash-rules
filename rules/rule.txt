@@ -1,1 +1,10 @@
-- DOMAIN-SUFFIX,files.oaiusercontent.com,Proxy
+- DOMAIN-SUFFIX,sentry.io
+- DOMAIN-KEYWORD,openai
+- DOMAIN-KEYWORD,chatgpt
+- DOMAIN-KEYWORD,openaicom
+- DOMAIN-KEYWORD,oaiusercontent
+- DOMAIN-SUFFIX,openai.com
+- DOMAIN-SUFFIX,chatgpt.com
+- DOMAIN-SUFFIX,auth0.com
+- DOMAIN-SUFFIX,sentry.io
+- DOMAIN-SUFFIX,pki.goog

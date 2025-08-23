@@ -1,2 +1,1 @@
-- DOMAIN-SUFFIX,files.oaiusercontent.com,Auto
-- DOMAIN-SUFFIX,chatgpt.com,Auto
+- DOMAIN-SUFFIX,files.oaiusercontent.com,Proxy
